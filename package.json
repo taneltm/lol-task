@@ -1,0 +1,34 @@
+{
+  "name": "lol-task",
+  "version": "1.0.0",
+  "description": "A fun task system for the linux terminal",
+  "main": "index.js",
+  "bin": {
+    "lol": "./bin/lol.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taneltm/lol-task.git"
+  },
+  "keywords": [
+    "task",
+    "todo",
+    "schedule",
+    "linux",
+    "terminal"
+  ],
+  "author": "TanelTM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taneltm/lol-task/issues"
+  },
+  "homepage": "https://github.com/taneltm/lol-task#readme",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "moment": "^2.24.0",
+    "terminal-kit": "^1.31.4"
+  }
+}
