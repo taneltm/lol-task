@@ -1,6 +1,8 @@
 # lol-task
 Fun task system for the linux terminal
 
+![Screenshot](screenshot.png)
+
 ## Install
 ```
 npm install -g https://github.com/taneltm/lol-task
