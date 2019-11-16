@@ -1,7 +1,7 @@
 # lol-task
 Fun task system for the linux terminal
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot-2.png)
 
 ## Install
 ```
