@@ -13,6 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/taneltm/lol-task.git"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "./node_modules/.bin/eslint — fix",
+      "git add"
+    ]
+  },
   "keywords": [
     "task",
     "todo",
