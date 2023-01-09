@@ -29,6 +29,6 @@
   "dependencies": {
     "commander": "^3.0.2",
     "moment": "^2.24.0",
-    "terminal-kit": "^1.31.4"
+    "terminal-kit": "^1.49.4"
   }
 }
